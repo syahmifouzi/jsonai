@@ -74,7 +74,7 @@ func (pr *PersonRes) personRes(r string) {
 	// return strings.Join([]string(c), ", ")
 	// var a [n]byte
 	// copy(a[:], split[0])
-	// s := string(a[:3])
+	// s := string(a[:3]) adjkadlfa
 }
 
 func (pr *PersonRes) talkAbout(s string) bool {
